@@ -150,3 +150,19 @@ if (index <= repeatCount) {
 //   document.write(students[i].surname, "<br>");
 // }
 
+// function
+// document.write("subscribe", "<br>", "enjoy", "<br>", "connect", "<br>"); //бесконечное количество аргументов
+
+// function getSum(a, b, c) {
+//   return a + b + c;
+// }
+// const sum = getSum(100, 200, 300);
+// console.log(sum);
+
+// function getGreetingMessage(userName, companyName) {
+//   const message =
+//     "Hello " + userName + " lets start coding at the company " + companyName;
+//   return message;
+// }
+// const message = getGreetingMessage(1, 2);
+// document.write(message);
